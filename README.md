@@ -1,6 +1,6 @@
 # LoginPage
 A simple Login Page coded with Swing framework of GUI(Graphics User Interface) java.
-Swing library that we used Java Foundation Classes [JFC] library and an extension of the Abstract Window Toolkit [AWT]
+Swing that we used Java Foundation Classes [JFC] library and an extension of the Abstract Window Toolkit [AWT]
 
 - This is simple demo of then login page.
 
